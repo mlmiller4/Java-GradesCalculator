@@ -1,4 +1,4 @@
-package edu.gatech.seclass.gradescalculator;
+package gradescalculator;
 
 import java.io.File;
 import java.io.FileInputStream;

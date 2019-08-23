@@ -1,4 +1,4 @@
-package edu.gatech.seclass.gradescalculator;
+package gradescalculator;
 
 public class Student {
 	
